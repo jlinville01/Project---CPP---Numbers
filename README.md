@@ -1,2 +1,3 @@
 # Numbers Project
-This was a C++ project where standard arithmetic methods can be altered for "funny" effects.
+
+This project was an assignment for a Santa Monica College C++ course with the purpose of creating standard arithmetic methods can be altered for "funny" effects.
